@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_samples",
+  "version": "1.0.0",
+  "description": "Samples for some interesting NodeJS topics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Noah Gels",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
