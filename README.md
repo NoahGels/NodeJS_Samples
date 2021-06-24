@@ -1,4 +1,4 @@
 
 
-create the `highScores.json`file 
+create the `highScores.json` file 
 and write `{}` in it
