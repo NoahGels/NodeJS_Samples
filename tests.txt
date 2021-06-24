@@ -1,0 +1,26 @@
+4. create index.js
+
+Run node index
+
+With your browser or App:
+
+    http://localhost:8080/setHighScore?
+        playerName=Mike&highScore=15
+
+        -> HighScore of Mike was set to 15
+
+    http://localhost:8080/getHighScore?
+        playerName=Mike
+
+        -> { "highScore": "15" }
+
+
+Challenge:
+
+Create a request that will
+return all HighScores in
+our list. Share it in your
+story. The first one will
+get a repost
+
+highScores.json
